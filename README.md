@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/kooperkodes](https://dev.to/kooperkodes)
 
-- 💬 Ask me about ** react, node, google tag manager, adobe launch**
+- 💬 Ask me about ** reactJS, nodeJS, google tag manager, typescript**
 
 - 📫 How to reach me **khalifbcooper@outlook.com**
 
