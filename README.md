@@ -21,7 +21,7 @@
       <br><br>
       Outside of engineering, I help grow Baltimore's technology ecosystem through events, workshops, mentorship, and community-building initiatives.
     </td>
-    <td valign="top" align="center" width="38%">
+    <td valign="top" width="38%">
       <strong>Focus</strong><br><br>
       Adobe Analytics<br>
       Adobe Experience Platform<br>
@@ -77,15 +77,15 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="42%">
+    <td valign="top" width="50%">
       <a href="https://bmoretechnights.com"><strong>Bmore Tech Nights</strong></a>
-      <br><br>
-      A monthly gathering for Baltimore's technology community to meet, share ideas, learn, and build relationships.
+      <br>
+      A monthly Baltimore tech meetup.
     </td>
-    <td align="center" valign="top" width="58%">
+    <td valign="top" width="50%">
       <a href="https://bmoretechweek.com"><strong>Baltimore Tech Week</strong></a>
-      <br><br>
-      A citywide week I help organize for technologists, founders, companies, and community partners.
+      <br>
+      A citywide week for builders and partners.
     </td>
   </tr>
 </table>
@@ -94,7 +94,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="320">
+    <td valign="top" width="320">
       <strong>I've spoken at</strong><br><br>
       Per Scholas Baltimore<br>
       Morgan State University<br>
@@ -103,7 +103,7 @@
       Tech Woke Podcast<br>
       Baltimore Creators Podcast
     </td>
-    <td align="center" valign="top" width="280">
+    <td valign="top" width="280">
       <strong>Topics</strong><br><br>
       Practical AI<br>
       Analytics Engineering<br>
