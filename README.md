@@ -46,12 +46,10 @@
   </tr>
 </table>
 
-<h2 align="center">Currently building</h2>
-
-<h3 align="center">Pushlog</h3>
+<h2 align="center">Currently building: PushLog</h2>
 
 <p align="center">
-  <img src="./assets/pushlog.jpg" alt="Pushlog open on a product page, showing Web SDK events" width="100%" />
+  <img src="./assets/pushlog.jpg" alt="PushLog open on a product page, showing Web SDK events" width="100%" />
 </p>
 
 <p align="center">
