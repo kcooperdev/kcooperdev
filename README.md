@@ -22,13 +22,15 @@
       Outside of engineering, I help grow Baltimore's technology ecosystem through events, workshops, mentorship, and community-building initiatives.
     </td>
     <td valign="top" width="38%">
-      <strong>Focus</strong><br><br>
-      Adobe Analytics<br>
-      Adobe Experience Platform<br>
-      Adobe Launch<br>
-      Google Tag Manager<br>
-      React<br>
-      TypeScript
+      <strong>Focus</strong>
+      <ul>
+        <li>Adobe Analytics</li>
+        <li>Adobe Experience Platform</li>
+        <li>Adobe Launch</li>
+        <li>Google Tag Manager</li>
+        <li>React</li>
+        <li>TypeScript</li>
+      </ul>
     </td>
   </tr>
 </table>
