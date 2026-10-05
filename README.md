@@ -58,15 +58,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="50%">
-      Captures events as they happen<br>
-      Separates Adobe Client Data Layer activity<br>
-      Tracks AEP Web SDK events
+    <td valign="top" width="50%">
+      <ul>
+        <li>Captures events as they happen</li>
+        <li>Separates Adobe Client Data Layer activity</li>
+        <li>Tracks AEP Web SDK events</li>
+      </ul>
     </td>
-    <td align="center" valign="top" width="50%">
-      Monitors Google Tag Manager activity<br>
-      Provides searchable payload inspection<br>
-      Simplifies analytics validation workflows
+    <td valign="top" width="50%">
+      <ul>
+        <li>Monitors Google Tag Manager activity</li>
+        <li>Provides searchable payload inspection</li>
+        <li>Simplifies analytics validation workflows</li>
+      </ul>
     </td>
   </tr>
 </table>
