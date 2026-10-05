@@ -76,20 +76,12 @@
 <table>
   <tr>
     <td align="center" valign="top" width="42%">
-      <a href="https://bmoretechnights.com">
-        <img src="./assets/bmore-tech-nights.png" alt="Bmore Tech Nights" width="160" />
-      </a>
-      <br><br>
-      <strong>Bmore Tech Nights</strong>
+      <a href="https://bmoretechnights.com"><strong>Bmore Tech Nights</strong></a>
       <br><br>
       A monthly gathering for Baltimore's technology community to meet, share ideas, learn, and build relationships.
     </td>
     <td align="center" valign="top" width="58%">
-      <a href="https://bmoretechweek.com">
-        <img src="./assets/baltimore-tech-week.jpg" alt="Baltimore Tech Week, Night Edition, April 26-30, 2027" width="100%" />
-      </a>
-      <br><br>
-      <strong>Baltimore Tech Week</strong>
+      <a href="https://bmoretechweek.com"><strong>Baltimore Tech Week</strong></a>
       <br><br>
       A citywide week I help organize for technologists, founders, companies, and community partners.
     </td>
