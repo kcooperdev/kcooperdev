@@ -79,14 +79,14 @@
 
 <h2 align="center">Community</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://bmoretechnights.com"><strong>Bmore Tech Nights</strong></a>
       <br>
       A monthly Baltimore tech meetup.
     </td>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://bmoretechweek.com"><strong>Baltimore Tech Week</strong></a>
       <br>
       A citywide week for builders and partners.
