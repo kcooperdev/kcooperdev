@@ -160,27 +160,28 @@
 
 <h2 align="center">Speaking & Workshops</h2>
 
-<p align="center">I've spoken at:</p>
-
-<p align="center">
-  Per Scholas Baltimore<br>
-  Morgan State University<br>
-  American University<br>
-  StarTUp at the Armory (UpSurge Baltimore)<br>
-  Tech Woke Podcast<br>
-  Baltimore Creators Podcast
-</p>
-
-<h3 align="center">Topics</h3>
-
-<p align="center">
-  Practical AI<br>
-  Analytics Engineering<br>
-  Software Development<br>
-  Career Growth<br>
-  Community Building<br>
-  Emerging Technology
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="320">
+      <strong>I've spoken at</strong><br><br>
+      Per Scholas Baltimore<br>
+      Morgan State University<br>
+      American University<br>
+      StarTUp at the Armory (UpSurge Baltimore)<br>
+      Tech Woke Podcast<br>
+      Baltimore Creators Podcast
+    </td>
+    <td align="center" valign="top" width="280">
+      <strong>Topics</strong><br><br>
+      Practical AI<br>
+      Analytics Engineering<br>
+      Software Development<br>
+      Career Growth<br>
+      Community Building<br>
+      Emerging Technology
+    </td>
+  </tr>
+</table>
 
 ---
 
