@@ -46,14 +46,16 @@
   </tr>
 </table>
 
-<h2 align="center">Pushlog</h2>
+<h2 align="center">Currently building</h2>
+
+<h3 align="center">Pushlog</h3>
 
 <p align="center">
   <img src="./assets/pushlog.jpg" alt="Pushlog open on a product page, showing Web SDK events" width="100%" />
 </p>
 
 <p align="center">
-  A Chrome extension for inspecting analytics events in real time without opening browser DevTools.
+  A Chrome extension I'm building to inspect analytics events in real time without opening browser DevTools.
 </p>
 
 <table align="center">
