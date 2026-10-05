@@ -56,14 +56,14 @@
   A Chrome extension for inspecting analytics events in real time without opening browser DevTools.
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       Captures events as they happen<br>
       Separates Adobe Client Data Layer activity<br>
       Tracks AEP Web SDK events
     </td>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       Monitors Google Tag Manager activity<br>
       Provides searchable payload inspection<br>
       Simplifies analytics validation workflows
