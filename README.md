@@ -30,24 +30,24 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">
-  I'm a Software Engineer at CarMax specializing in analytics engineering, tag management, and digital measurement solutions.
-</p>
-
-<p align="center">My work focuses on:</p>
-
-<p align="center">
-  Adobe Analytics<br>
-  Adobe Experience Platform (AEP)<br>
-  Adobe Launch<br>
-  Google Tag Manager<br>
-  React<br>
-  TypeScript
-</p>
-
-<p align="center">
-  Outside of engineering, I help grow Baltimore's technology ecosystem through events, workshops, mentorship, and community-building initiatives.
-</p>
+<table>
+  <tr>
+    <td valign="top" width="62%">
+      I'm a Software Engineer at CarMax specializing in analytics engineering, tag management, and digital measurement solutions.
+      <br><br>
+      Outside of engineering, I help grow Baltimore's technology ecosystem through events, workshops, mentorship, and community-building initiatives.
+    </td>
+    <td valign="top" align="center" width="38%">
+      <strong>Focus</strong><br><br>
+      Adobe Analytics<br>
+      Adobe Experience Platform<br>
+      Adobe Launch<br>
+      Google Tag Manager<br>
+      React<br>
+      TypeScript
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,13 +61,16 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kcooperdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Khalif Cooper GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kcooperdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="58%">
+      <img src="https://github-stats-extended.vercel.app/api?username=kcooperdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Khalif Cooper GitHub stats" width="100%" />
+    </td>
+    <td align="center" width="42%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kcooperdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kcooperdev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -117,44 +120,49 @@
   Pushlog is a Chrome extension that helps developers, analysts, and marketers inspect analytics events in real time without opening browser DevTools.
 </p>
 
-<p align="center"><strong>What it does</strong></p>
-
-<p align="center">
-  Captures events as they happen<br>
-  Separates Adobe Client Data Layer activity<br>
-  Tracks AEP Web SDK events<br>
-  Monitors Google Tag Manager activity<br>
-  Provides searchable payload inspection<br>
-  Simplifies analytics validation workflows
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>What it does</strong><br><br>
+      Captures events as they happen<br>
+      Separates Adobe Client Data Layer activity<br>
+      Tracks AEP Web SDK events
+    </td>
+    <td valign="top" width="50%">
+      <br><br>
+      Monitors Google Tag Manager activity<br>
+      Provides searchable payload inspection<br>
+      Simplifies analytics validation workflows
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">Community Impact</h2>
 
-<h3 align="center">Bmore Tech Nights</h3>
-
-<p align="center">
-  <a href="https://bmoretechnights.com">
-    <img src="./assets/bmore-tech-nights.png" alt="Bmore Tech Nights" width="180" />
-  </a>
-</p>
-
-<p align="center">
-  Bmore Tech Nights is a recurring monthly gathering that brings together Baltimore's technology community to meet, share ideas, learn from one another, and build meaningful professional relationships.
-</p>
-
-<h3 align="center">Baltimore Tech Week</h3>
-
-<p align="center">
-  <a href="https://bmoretechweek.com">
-    <img src="./assets/baltimore-tech-week.jpg" alt="Baltimore Tech Week, Night Edition, April 26-30, 2027" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  I help organize and lead Baltimore Tech Week, bringing together technologists, founders, companies, and community partners to showcase Baltimore's innovation ecosystem and technology talent.
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="42%">
+      <a href="https://bmoretechnights.com">
+        <img src="./assets/bmore-tech-nights.png" alt="Bmore Tech Nights" width="160" />
+      </a>
+      <br><br>
+      <strong>Bmore Tech Nights</strong>
+      <br><br>
+      A monthly gathering for Baltimore's technology community to meet, share ideas, learn, and build relationships.
+    </td>
+    <td align="center" valign="top" width="58%">
+      <a href="https://bmoretechweek.com">
+        <img src="./assets/baltimore-tech-week.jpg" alt="Baltimore Tech Week, Night Edition, April 26-30, 2027" width="100%" />
+      </a>
+      <br><br>
+      <strong>Baltimore Tech Week</strong>
+      <br><br>
+      A citywide week I help organize for technologists, founders, companies, and community partners.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -188,12 +196,7 @@
 <h2 align="center">Open To</h2>
 
 <p align="center">
-  Speaking Opportunities<br>
-  Workshops<br>
-  Conference Sessions<br>
-  Community Partnerships<br>
-  Technology Panels<br>
-  Developer Collaborations
+  <strong>Speaking</strong> · Workshops · Conferences · Partnerships · Panels · Collaborations
 </p>
 
 ---
