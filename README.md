@@ -51,7 +51,7 @@
 <h2 align="center">Currently building: PushLog</h2>
 
 <p align="center">
-  <img src="./assets/pushlog.jpg" alt="PushLog open on a product page, showing Web SDK events" width="100%" />
+  <img src="./assets/pushlog.jpg" alt="PushLog inspecting Google Tag Manager events on the Under Armour careers site" width="100%" />
 </p>
 
 <p align="center">
